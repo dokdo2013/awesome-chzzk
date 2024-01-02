@@ -14,6 +14,7 @@
 |---|---|---|---|
 |[kimcore/chzzk](https://github.com/kimcore/chzzk)|Typescript|MIT|Node.js SDK - [NPM](https://www.npmjs.com/package/chzzk)|
 |[Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk)|Javascript|AGPL-3.0|Node.js SDK - [NPM](https://www.npmjs.com/package/chzzk-sdk)|
+|[Helloyunho/spark](https://github.com/Helloyunho/spark)|Typescript|Apache-2.0|Node.js SDK - [NPM](https://www.npmjs.com/package/spark-chzzk)|
 |[R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j)|Java|LGPL-3.0|Java SDK - [Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j)|
 |[jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk)|Python|MIT|Python - [PyPI](https://pypi.org/project/python-chzzk/)|
 
