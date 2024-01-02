@@ -43,6 +43,7 @@
 |---|---|---|---|
 |[HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot)|Javscript|MIT||
 |[LukeNightstar/discord_chzzk_live](https://github.com/LukeNightstar/discord_chzzk_live)|Typescript|MIT||
+|[aroxu/chizik](https://github.com/aroxu/chizik)|Python|GPL-3.0|[서비스](https://chizik.aroxu.me/)|
 
 ### Tampermonkey 유저 스크립트
 |프로젝트명|언어|라이센스|비고|
