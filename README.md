@@ -1,6 +1,8 @@
 # Awesome Chzzk
 네이버 Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트를 정리합니다.
 
+Are you an English speaker? -> [Go to read the English document](https://github.com/dokdo2013/awesome-chzzk/blob/main/README_en.md)
+
 ## 프로젝트
 
 ### 크롬 익스텐션
