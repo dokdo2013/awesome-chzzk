@@ -12,6 +12,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus) - Chzzk Extension `Typescript` `MIT License` ([Extension Install](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia))
 - [khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP) - Chzzk PIP, Recording Button Added Extension `Typescript` ([Extension Install](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio))
 - [Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut) - Chzzk Video Player Shortcut Applied `Javascript`
+- [jebibot/cheese-knife](https://github.com/jebibot/cheese-knife) - Add various and useful features and tools to Naver's streaming platform, CHZZK `Javascript` `MIT License` ([Extension Install](https://chromewebstore.google.com/detail/nfkfgkkhgglkgnlppncolmpekidapkjh))
 
 ### SDKs
 - [Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) - Unofficial API Library for Naver Live Streaming Service CHZZK `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
@@ -49,6 +50,9 @@ A collection of open-source projects related to the Naver Chzzk platform.
 
 ### VOD Downloader
 - [24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader) - CHZZK VOD Replay Downloader Program `Python`
+
+### Minecraft Integration
+- [NOOBNUBY/McChzzk](https://github.com/NOOBNUBY/McChzzk) - Minecraft <-> Chzzk plugin `Kotlin` `GPL-3.0 License`
 
 ## How to Contribute
 If you want to contribute to the project, please read the [Contribution Guidelines](https://github.com/dokdo2013/awesome-chzzk/blob/main/CONTRIBUTING_en.md) document!

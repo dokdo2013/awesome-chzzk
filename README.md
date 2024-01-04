@@ -12,6 +12,7 @@
 - [kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus) - Chzzk 치지직 확장프로그램 `Typescript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia))
 - [khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP) - 치지직 PIP, 녹화 버튼 추가 확장 `Typescript` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio))
 - [Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut) - 치지직 비디오 플레이어 단축키 적용 `Javascript`
+- [jebibot/cheese-knife](https://github.com/jebibot/cheese-knife) - 네이버 스트리밍 플랫폼 치지직에 다양하고 유용한 기능과 도구를 추가합니다. `Javascript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/nfkfgkkhgglkgnlppncolmpekidapkjh))
 
 ### SDK
 - [Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
@@ -49,6 +50,9 @@
 
 ### VOD Downloader
 - [24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader) - 치지직 VOD 다시보기 다운로드 프로그램 `Python`
+
+### 마인크래프트 연동
+- [NOOBNUBY/McChzzk](https://github.com/NOOBNUBY/McChzzk) - Minecraft <-> Chzzk plugin `Kotlin` `GPL-3.0 License`
 
 ## 기여하는 방법
 프로젝트에 기여하고 싶다면 [기여 가이드라인](https://github.com/dokdo2013/awesome-chzzk/blob/main/CONTRIBUTING.md) 문서를 읽어주세요!
