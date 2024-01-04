@@ -23,6 +23,9 @@
 ### OpenAPI
 - [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API 호환 Chzzk(치지직) API `Typescript` `AGPL-3.0 License` ([API 문서](https://api.twitchzzk.tv))
 
+### 서드파티 서비스
+- [axl0926/chzzk](https://github.com/axl0926/chzzk) - 방송 카테고리에 따른 치지직 방송 분류 `Typescript` ([서비스](https://chzzk.vercel.app/))
+
 ### 오버레이
 - [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - 채팅 오버레이 `Typescript` ([서비스](https://chzzk-overlay.vercel.app/))
 
