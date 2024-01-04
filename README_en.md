@@ -48,7 +48,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader) - CHZZK VOD Replay Downloader Program `Python`
 
 ## How to Contribute
-TBD
+If you want to contribute to the project, please read the [Contribution Guidelines](https://github.com/dokdo2013/awesome-chzzk/blob/main/CONTRIBUTING_en.md) document!
 
 ## Contributors
 - [@dokdo2013](https://github.com/dokdo2013)
