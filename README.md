@@ -6,13 +6,14 @@ Are you an English speaker? -> [Go to read the English document](https://github.
 ## 프로젝트
 
 ### 크롬 익스텐션
-프로젝트명|언어|라이센스|비고|
----|---|---|---|
-[kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus)|Typescript|MIT|[익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia)|
-[khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP)|Typescript||[익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio)|
+|프로젝트명|언어|라이센스|비고|
+|---|---|---|---|
+|[kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus)|Typescript|MIT|[익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia)|
+|[khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP)|Typescript||[익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio)|
+|[Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut)|Javascript|||
 
 ### SDK
-프로젝트명|언어|라이센스|비고|
+|프로젝트명|언어|라이센스|비고|
 |---|---|---|---|
 |[kimcore/chzzk](https://github.com/kimcore/chzzk)|Typescript|MIT|Node.js SDK - [NPM](https://www.npmjs.com/package/chzzk)|
 |[Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk)|Javascript|AGPL-3.0|Node.js SDK - [NPM](https://www.npmjs.com/package/chzzk-sdk)|
@@ -47,11 +48,19 @@ Are you an English speaker? -> [Go to read the English document](https://github.
 |[HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot)|Javscript|MIT||
 |[LukeNightstar/discord_chzzk_live](https://github.com/LukeNightstar/discord_chzzk_live)|Typescript|MIT||
 |[aroxu/chizik](https://github.com/aroxu/chizik)|Python|GPL-3.0|[서비스](https://chizik.aroxu.me/)|
+|[GangOn0215/discord-chzzk-bot-js](https://github.com/GangOn0215/discord-chzzk-bot-js)|Javascript|||
+|[junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot)|Typescript|||
+|[HaekyungS/chzzk_discord](https://github.com/HaekyungS/chzzk_discord)|Javascript|||
 
 ### Tampermonkey 유저 스크립트
 |프로젝트명|언어|라이센스|비고|
 |---|---|---|---|
 |[nomomo/Chzzk_Scripts](https://github.com/nomomo/Chzzk_Scripts)|Javascript|MIT||
+
+### VOD Downloader
+|프로젝트명|언어|라이센스|비고|
+|---|---|---|---|
+|[24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader)|Python|||
 
 ## CAUTION/DISCLAIMER
 - 라이센스가 표기되지 않은 프로젝트를 복제하거나 상업적으로 이용하는 것은 권장되지 않습니다.
