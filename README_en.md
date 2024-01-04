@@ -8,8 +8,9 @@ A collection of open-source projects related to the Naver Chzzk platform.
 ### Chrome Extensions
 |Project Name|Language|License|Notes|
 |---|---|---|---|
-[kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus)|Typescript|MIT|[Extension Install](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia)|
-[khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP)|Typescript||[Extension Install](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio)|
+|[kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus)|Typescript|MIT|[Extension Install](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia)|
+|[khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP)|Typescript||[Extension Install](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio)|
+|[Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut)|Javascript|||
 
 ### SDKs
 |Project Name|Language|License|Notes|
@@ -47,11 +48,19 @@ A collection of open-source projects related to the Naver Chzzk platform.
 |[HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot)|Javscript|MIT||
 |[LukeNightstar/discord_chzzk_live](https://github.com/LukeNightstar/discord_chzzk_live)|Typescript|MIT||
 |[aroxu/chizik](https://github.com/aroxu/chizik)|Python|GPL-3.0|[Services](https://chizik.aroxu.me/)|
+|[GangOn0215/discord-chzzk-bot-js](https://github.com/GangOn0215/discord-chzzk-bot-js)|Javascript|||
+|[junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot)|Typescript|||
+|[HaekyungS/chzzk_discord](https://github.com/HaekyungS/chzzk_discord)|Javascript|||
 
 ### Tampermonkey User Scripts
 |Project Name|Language|License|Notes|
 |---|---|---|---|
 |[nomomo/Chzzk_Scripts](https://github.com/nomomo/Chzzk_Scripts)|Javascript|MIT||
+
+### VOD Downloader
+|Project Name|Language|License|Notes|
+|---|---|---|---|
+|[24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader)|Python|||
 
 ## CAUTION/DISCLAIMER
 - It is not recommended to clone or commercially use projects that do not have a license indicated.
