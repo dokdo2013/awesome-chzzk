@@ -47,12 +47,14 @@ A collection of open-source projects related to the Naver Chzzk platform.
 ### VOD Downloader
 - [24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader) - CHZZK VOD Replay Downloader Program `Python`
 
-## CAUTION/DISCLAIMER
-- It is not recommended to clone or commercially use projects that do not have a license indicated.
-- We are not responsible for any problems arising from the use of projects that do not have a license indicated.
-
 ## How to Contribute
 TBD
 
 ## Contributors
 - [@dokdo2013](https://github.com/dokdo2013)
+
+## Caution & Disclaimer
+- The awesome-chzzk project strongly recommends complying with the licenses of individual projects.
+- It is not recommended to replicate or commercially use projects that do not display a license.
+- The contributors of the awesome-chzzk project are not responsible for any issues arising from the use of projects without a displayed license.
+- The contributors of the awesome-chzzk project are not responsible for any security, functional, or other issues that may arise from the use of open-source projects listed in the awesome-chzzk project.
