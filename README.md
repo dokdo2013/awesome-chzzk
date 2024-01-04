@@ -1,66 +1,51 @@
 # Awesome Chzzk
-네이버 Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트를 정리합니다.
+[한국어][LINK_한국어] | [English][LINK_english]
 
-Are you an English speaker? -> [Go to read the English document](https://github.com/dokdo2013/awesome-chzzk/blob/main/README_en.md)
+[LINK_한국어]: <https://github.com/dokdo2013/awesome-chzzk/blob/main/README.md>
+[LINK_english]: <https://github.com/dokdo2013/awesome-chzzk/blob/main/README_en.md>
+
+네이버 Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트를 정리합니다.
 
 ## 프로젝트
 
 ### 크롬 익스텐션
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus)|Typescript|MIT|[익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia)|
-|[khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP)|Typescript||[익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio)|
-|[Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut)|Javascript|||
+- [kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus) - Chzzk 치지직 확장프로그램 `Typescript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia))
+- [khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP) - 치지직 PIP, 녹화 버튼 추가 확장 `Typescript` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio))
+- [Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut) - 치지직 비디오 플레이어 단축키 적용 `Javascript`
 
 ### SDK
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[kimcore/chzzk](https://github.com/kimcore/chzzk)|Typescript|MIT|Node.js SDK - [NPM](https://www.npmjs.com/package/chzzk)|
-|[Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk)|Javascript|AGPL-3.0|Node.js SDK - [NPM](https://www.npmjs.com/package/chzzk-sdk)|
-|[Helloyunho/spark](https://github.com/Helloyunho/spark)|Typescript|Apache-2.0|Node.js SDK - [NPM](https://www.npmjs.com/package/spark-chzzk)|
-|[R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j)|Java|LGPL-3.0|Java SDK - [Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j)|
-|[jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk)|Python|MIT|Python - [PyPI](https://pypi.org/project/python-chzzk/)|
+- [Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
+- [Node.js] [Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk) - Node.js SDK `Javascript` `AGPL-3.0 License` ([NPM](https://www.npmjs.com/package/chzzk-sdk))
+- [Node.js] [Helloyunho/spark](https://github.com/Helloyunho/spark) - 비공식 네이버 스트리밍 서비스 치지직 JavaScript API `Typescript` `Apache-2.0 License` ([NPM](https://www.npmjs.com/package/spark-chzzk))
+- [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `LGPL-3.0 License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
+- [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
 
 ### OpenAPI
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api)|Typescript|AGPL-3.0|[API 문서](https://api.twitchzzk.tv)|
+- [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API 호환 Chzzk(치지직) API `Typescript` `AGPL-3.0 License` ([API 문서](https://api.twitchzzk.tv))
 
 ### 오버레이
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay)|Typescript||[서비스](https://chzzk-overlay.vercel.app/)|
+- [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - 채팅 오버레이 `Typescript` ([서비스](https://chzzk-overlay.vercel.app/))
 
 ### Streamlink 플러그인
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk)|Python|||
-|[BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder)|Python|MIT||
+- [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) - streamlink plugin for 치지직(Chzzk) `Python`
+- [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) - 자동 녹화 시스템 `Python` `MIT License`
 
 ### 크롤러
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[Buddha7771/ChzzkChat](https://github.com/Buddha7771/ChzzkChat)|Python|||
+- [Buddha7771/ChzzkChat](https://github.com/Buddha7771/ChzzkChat) - 파이썬 치지직 채팅 크롤러 `Python`
 
 ### 디스코드 봇
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot)|Javscript|MIT||
-|[LukeNightstar/discord_chzzk_live](https://github.com/LukeNightstar/discord_chzzk_live)|Typescript|MIT||
-|[aroxu/chizik](https://github.com/aroxu/chizik)|Python|GPL-3.0|[서비스](https://chizik.aroxu.me/)|
-|[GangOn0215/discord-chzzk-bot-js](https://github.com/GangOn0215/discord-chzzk-bot-js)|Javascript|||
-|[junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot)|Typescript|||
-|[HaekyungS/chzzk_discord](https://github.com/HaekyungS/chzzk_discord)|Javascript|||
+- [HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot) - NAVER's CHZZK Live Notification Bot for Discord `Javascript` `MIT License`
+- [LukeNightstar/discord_chzzk_live](https://github.com/LukeNightstar/discord_chzzk_live) - discord bot chzzk live notification `Javascript` `MIT License`
+- [aroxu/chizik](https://github.com/aroxu/chizik) - 치지직 방송 정보 조회봇 `Python` `GPL-3.0 License` ([서비스](https://chizik.aroxu.me/))
+- [GangOn0215/discord-chzzk-bot-js](https://github.com/GangOn0215/discord-chzzk-bot-js) - discord-chzzk-bot discord.js v14 버전으로 만든 비공식 chzzk 알림봇 `Javascript`
+- [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) - 치지직 방송 알림 디스코드 봇 `Typescript`
+- [HaekyungS/chzzk_discord](https://github.com/HaekyungS/chzzk_discord) - 디스코드 치지직 뱅온 알림 봇 `Javascript`
 
 ### Tampermonkey 유저 스크립트
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[nomomo/Chzzk_Scripts](https://github.com/nomomo/Chzzk_Scripts)|Javascript|MIT||
+- [nomomo/Chzzk_Scripts](https://github.com/nomomo/Chzzk_Scripts) - chzzk_utils `Javascript` `MIT License`
 
 ### VOD Downloader
-|프로젝트명|언어|라이센스|비고|
-|---|---|---|---|
-|[24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader)|Python|||
+- [24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader) - 치지직 VOD 다시보기 다운로드 프로그램 `Python`
 
 ## CAUTION/DISCLAIMER
 - 라이센스가 표기되지 않은 프로젝트를 복제하거나 상업적으로 이용하는 것은 권장되지 않습니다.

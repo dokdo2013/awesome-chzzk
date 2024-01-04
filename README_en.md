@@ -1,66 +1,51 @@
 # Awesome Chzzk
-A collection of open-source projects related to the Naver Chzzk platform.
+[한국어][LINK_한국어] | [English][LINK_english]
 
-한국어 사용자인가요? -> [한글 문서 읽으러 가기](https://github.com/dokdo2013/awesome-chzzk/blob/main/README.md)
+[LINK_한국어]: <https://github.com/dokdo2013/awesome-chzzk/blob/main/README.md>
+[LINK_english]: <https://github.com/dokdo2013/awesome-chzzk/blob/main/README_en.md>
+
+A collection of open-source projects related to the Naver Chzzk platform.
 
 ## Projects
 
 ### Chrome Extensions
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus)|Typescript|MIT|[Extension Install](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia)|
-|[khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP)|Typescript||[Extension Install](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio)|
-|[Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut)|Javascript|||
+- [kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus) - Chzzk Extension `Typescript` `MIT License` ([Extension Install](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia))
+- [khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP) - Chzzk PIP, Recording Button Added Extension `Typescript` ([Extension Install](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio))
+- [Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut) - Chzzk Video Player Shortcut Applied `Javascript`
 
 ### SDKs
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[kimcore/chzzk](https://github.com/kimcore/chzzk)|Typescript|MIT|Node.js SDK - [NPM](https://www.npmjs.com/package/chzzk)|
-|[Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk)|Javascript|AGPL-3.0|Node.js SDK - [NPM](https://www.npmjs.com/package/chzzk-sdk)|
-|[Helloyunho/spark](https://github.com/Helloyunho/spark)|Typescript|Apache-2.0|Node.js SDK - [NPM](https://www.npmjs.com/package/spark-chzzk)|
-|[R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j)|Java|LGPL-3.0|Java SDK - [Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j)|
-|[jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk)|Python|MIT|Python - [PyPI](https://pypi.org/project/python-chzzk/)|
+- [Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) - Unofficial API Library for Naver Live Streaming Service CHZZK `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
+- [Node.js] [Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk) - Node.js SDK `Javascript` `AGPL-3.0 License` ([NPM](https://www.npmjs.com/package/chzzk-sdk))
+- [Node.js] [Helloyunho/spark](https://github.com/Helloyunho/spark) - Unofficial Naver Streaming Service CHZZK JavaScript API `Typescript` `Apache-2.0 License` ([NPM](https://www.npmjs.com/package/spark-chzzk))
+- [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (CHZZK, the video streaming service of Naver) `Java` `LGPL-3.0 License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
+- [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
 
 ### OpenAPI
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api)|Typescript|AGPL-3.0|[API Documentation](https://api.twitchzzk.tv)|
+- [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API Compatible Chzzk API `Typescript` `AGPL-3.0 License` ([API Documentation](https://api.twitchzzk.tv))
 
 ### Overlays
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay)|Typescript||[Service](https://chzzk-overlay.vercel.app/)|
+- [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - Chat Overlay `Typescript` ([Service](https://chzzk-overlay.vercel.app/))
 
 ### Streamlink Plugins
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk)|Python|||
-|[BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder)|Python|MIT||
+- [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) - streamlink plugin for Chzzk `Python`
+- [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) - Automated Recording System `Python` `MIT License`
 
 ### Crawlers
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[Buddha7771/ChzzkChat](https://github.com/Buddha7771/ChzzkChat)|Python|||
+- [Buddha7771/ChzzkChat](https://github.com/Buddha7771/ChzzkChat) - Python Chzzk Chat Crawler `Python`
 
 ### Discord Bots
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot)|Javscript|MIT||
-|[LukeNightstar/discord_chzzk_live](https://github.com/LukeNightstar/discord_chzzk_live)|Typescript|MIT||
-|[aroxu/chizik](https://github.com/aroxu/chizik)|Python|GPL-3.0|[Services](https://chizik.aroxu.me/)|
-|[GangOn0215/discord-chzzk-bot-js](https://github.com/GangOn0215/discord-chzzk-bot-js)|Javascript|||
-|[junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot)|Typescript|||
-|[HaekyungS/chzzk_discord](https://github.com/HaekyungS/chzzk_discord)|Javascript|||
+- [HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot) - NAVER's CHZZK Live Notification Bot for Discord `Javascript` `MIT License`
+- [LukeNightstar/discord_chzzk_live](https://github.com/LukeNightstar/discord_chzzk_live) - discord bot chzzk live notification `Javascript` `MIT License`
+- [aroxu/chizik](https://github.com/aroxu/chizik) - CHZZK Broadcasting Information Inquiry Bot `Python` `GPL-3.0 License` ([Service](https://chizik.aroxu.me/))
+- [GangOn0215/discord-chzzk-bot-js](https://github.com/GangOn0215/discord-chzzk-bot-js) - Unofficial chzzk Notification Bot made with discord.js v14 `Javascript`
+- [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) - CHZZK Broadcasting Notification Discord Bot `Typescript`
+- [HaekyungS/chzzk_discord](https://github.com/HaekyungS/chzzk_discord) - Discord CHZZK Broadcasting Notification Bot `Javascript`
 
 ### Tampermonkey User Scripts
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[nomomo/Chzzk_Scripts](https://github.com/nomomo/Chzzk_Scripts)|Javascript|MIT||
+- [nomomo/Chzzk_Scripts](https://github.com/nomomo/Chzzk_Scripts) - chzzk_utils `Javascript` `MIT License`
 
 ### VOD Downloader
-|Project Name|Language|License|Notes|
-|---|---|---|---|
-|[24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader)|Python|||
+- [24802/chzzk-vod-downloader](https://github.com/24802/chzzk-vod-downloader) - CHZZK VOD Replay Downloader Program `Python`
 
 ## CAUTION/DISCLAIMER
 - It is not recommended to clone or commercially use projects that do not have a license indicated.
