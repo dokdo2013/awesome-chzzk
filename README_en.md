@@ -26,6 +26,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 
 ### Third-Party Services
 - [axl0926/chzzk](https://github.com/axl0926/chzzk) - Categorize Chzzk streamings by category `Typescript` ([Service](https://chzzk.vercel.app/))
+- [jebibot/cheese-remote](https://github.com/jebibot/cheese-remote) - View, replay, pause, skip, control volume for Chzzk Cheese Donation `Typescript` ([Service](https://remote.chz.app/))
 
 ### Overlays
 - [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - Chat Overlay `Typescript` ([Service](https://chzzk-overlay.vercel.app/))

@@ -26,6 +26,7 @@
 
 ### 서드파티 서비스
 - [axl0926/chzzk](https://github.com/axl0926/chzzk) - 방송 카테고리에 따른 치지직 방송 분류 `Typescript` ([서비스](https://chzzk.vercel.app/))
+- [jebibot/cheese-remote](https://github.com/jebibot/cheese-remote) - 치지직 치즈 후원 모아보기, 다시 재생, 일시정지, 스킵, 볼륨, 노출 시간 조절 `Typescript` ([서비스](https://remote.chz.app/))
 
 ### 오버레이
 - [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - 채팅 오버레이 `Typescript` ([서비스](https://chzzk-overlay.vercel.app/))
