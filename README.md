@@ -18,7 +18,7 @@
 - [Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
 - [Node.js] [Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk) - Node.js SDK `Javascript` `AGPL-3.0 License` ([NPM](https://www.npmjs.com/package/chzzk-sdk))
 - [Node.js] [Helloyunho/spark](https://github.com/Helloyunho/spark) - 비공식 네이버 스트리밍 서비스 치지직 JavaScript API `Typescript` `Apache-2.0 License` ([NPM](https://www.npmjs.com/package/spark-chzzk))
-- [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `LGPL-3.0 License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
+- [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 - [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
 
 ### OpenAPI
