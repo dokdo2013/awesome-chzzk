@@ -18,7 +18,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) - Unofficial API Library for Naver Live Streaming Service CHZZK `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
 - [Node.js] [Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk) - Node.js SDK `Javascript` `AGPL-3.0 License` ([NPM](https://www.npmjs.com/package/chzzk-sdk))
 - [Node.js] [Helloyunho/spark](https://github.com/Helloyunho/spark) - Unofficial Naver Streaming Service CHZZK JavaScript API `Typescript` `Apache-2.0 License` ([NPM](https://www.npmjs.com/package/spark-chzzk))
-- [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (CHZZK, the video streaming service of Naver) `Java` `LGPL-3.0 License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
+- [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (CHZZK, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 - [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
 
 ### OpenAPI
