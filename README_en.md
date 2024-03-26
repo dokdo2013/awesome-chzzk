@@ -23,6 +23,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (CHZZK, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 - [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
+- [Rust] [5-23/chzzk-rs](https://github.com/5-23/chzzk-rs) - Unofficial SDK of Korean live platform chzzk `Rust` `MIT License` ([Crates.io](https://crates.io/crates/chzzk))
 
 ### OpenAPI
 - [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API Compatible Chzzk API `Typescript` `AGPL-3.0 License` ([API Documentation](https://api.twitchzzk.tv))
@@ -69,6 +70,7 @@ If you want to contribute to the project, please read the [Contribution Guidelin
 ## Contributors
 - [@dokdo2013](https://github.com/dokdo2013)
 - [@R2turnTrue](https://github.com/R2turnTrue)
+- [@5-23](https://github.com/5-23)
 
 ## Caution & Disclaimer
 - The awesome-chzzk project strongly recommends complying with the licenses of individual projects.
