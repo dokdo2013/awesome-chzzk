@@ -23,6 +23,7 @@
 - [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 - [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
+- [Rust] [5-23/chzzk-rs](https://github.com/5-23/chzzk-rs) - Unofficial SDK of Korean live platform chzzk `Rust` `MIT License` ([Crates.io](https://crates.io/crates/chzzk))
 
 ### OpenAPI
 - [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API 호환 Chzzk(치지직) API `Typescript` `AGPL-3.0 License` ([API 문서](https://api.twitchzzk.tv))
