@@ -35,6 +35,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 
 ### Overlays
 - [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - Chat Overlay `Typescript` ([Service](https://chzzk-overlay.vercel.app/))
+- [chabulhwi/chzzk-custom-css](https://github.com/chabulhwi/chzzk-custom-css) - Custom CSS file for a Chzzk chat window that supports 4K UHD `CSS` `CC0-1.0 License`
 
 ### Streamlink Plugins
 - [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) - streamlink plugin for Chzzk `Python`

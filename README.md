@@ -35,6 +35,7 @@
 
 ### 오버레이
 - [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - 채팅 오버레이 `Typescript` ([서비스](https://chzzk-overlay.vercel.app/))
+- [chabulhwi/chzzk-custom-css](https://github.com/chabulhwi/chzzk-custom-css) - 4K UHD를 지원하는 치지직 채팅창을 위한 커스텀 CSS `CSS` `CC0-1.0 License`
 
 ### Streamlink 플러그인
 - [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) - streamlink plugin for 치지직(Chzzk) `Python`
