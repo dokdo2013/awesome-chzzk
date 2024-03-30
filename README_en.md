@@ -14,6 +14,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [Cl4nn5/chzzk_shortcut](https://github.com/Cl4nn5/chzzk_shortcut) - Chzzk Video Player Shortcut Applied `Javascript`
 - [jebibot/cheese-knife](https://github.com/jebibot/cheese-knife) - Add various and useful features and tools to Naver's streaming platform, CHZZK `Javascript` `MIT License` ([Extension Install](https://chromewebstore.google.com/detail/nfkfgkkhgglkgnlppncolmpekidapkjh))
 - [Serpong/tzzk](https://github.com/Serpong/tzzk) - Twitch UI for Chzzk `Javascript` ([Extension Install](https://chromewebstore.google.com/detail/%ED%8A%B8%EC%A7%80%EC%A7%81-%ED%8A%B8%EC%88%98-%EC%9D%B4%EC%A3%BC-%ED%99%98%EA%B2%BD-%EC%A0%81%EC%9D%91-%EC%A7%80%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4/bhfdliamlakhmeononpemhichflfeblc))
+- [2jun0/chzzk-ad-autoskipper](https://github.com/2jun0/chzzk-ad-autoskipper) - Chzzk Ad Skipper `Javascript` `MIT License` ([Extension Install](https://chromewebstore.google.com/detail/치지직-광고-스키퍼/dfckileffglgodofacjbhbglplojmcfl))
 
 ### SDKs
 - [Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) - Unofficial API Library for Naver Live Streaming Service CHZZK `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
