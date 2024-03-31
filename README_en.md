@@ -73,6 +73,7 @@ If you want to contribute to the project, please read the [Contribution Guidelin
 - [@dokdo2013](https://github.com/dokdo2013)
 - [@R2turnTrue](https://github.com/R2turnTrue)
 - [@5-23](https://github.com/5-23)
+- [@2jun0](https://github.com/2jun0)
 
 ## Caution & Disclaimer
 - The awesome-chzzk project strongly recommends complying with the licenses of individual projects.
