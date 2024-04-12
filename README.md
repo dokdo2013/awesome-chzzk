@@ -41,6 +41,7 @@
 ### Streamlink 플러그인
 - [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) - streamlink plugin for 치지직(Chzzk) `Python`
 - [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) - 자동 녹화 시스템 `Python` `MIT License`
+- [4Z0N4S/Callisto](https://github.com/4Z0N4S/Callisto) - 치지직(CHZZK) Streamlink 자동 녹화 `Python` `Docker`
 
 ### 크롤러
 - [Buddha7771/ChzzkChat](https://github.com/Buddha7771/ChzzkChat) - 파이썬 치지직 채팅 크롤러 `Python`
