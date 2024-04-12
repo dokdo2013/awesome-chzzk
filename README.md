@@ -75,6 +75,7 @@
 - [@R2turnTrue](https://github.com/R2turnTrue)
 - [@5-23](https://github.com/5-23)
 - [@2jun0](https://github.com/2jun0)
+- [@4Z0N4S](https://github.com/4Z0N4S)
 
 ## 주의사항 & 면책 조항
 - awesome-chzzk 프로젝트는 개별 프로젝트의 라이센스를 준수할 것을 강력히 권장합니다.
