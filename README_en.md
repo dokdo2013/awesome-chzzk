@@ -42,6 +42,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) - streamlink plugin for Chzzk `Python`
 - [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) - Automated Recording System `Python` `MIT License`
 - [4Z0N4S/Callisto](https://github.com/4Z0N4S/Callisto) - Chzzk automated recording with Streamlink `Python` `Docker`
+- [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) - Easy-to-use Chzzk stream recording program `Python` `MIT License`
 
 ### Crawlers
 - [Buddha7771/ChzzkChat](https://github.com/Buddha7771/ChzzkChat) - Python Chzzk Chat Crawler `Python`
@@ -76,6 +77,7 @@ If you want to contribute to the project, please read the [Contribution Guidelin
 - [@5-23](https://github.com/5-23)
 - [@2jun0](https://github.com/2jun0)
 - [@4Z0N4S](https://github.com/4Z0N4S)
+- [@munsy0227](https://github.com/munsy0227)
 
 ## Caution & Disclaimer
 - The awesome-chzzk project strongly recommends complying with the licenses of individual projects.
