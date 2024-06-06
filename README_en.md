@@ -23,6 +23,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [Node.js] [Emin-G/buzzk](https://github.com/Emin-G/buzzk) - BUZZK - Unofficial Library for building CHZZK Chatbot easier `Javascript` `MIT License` ([NPM](https://www.npmjs.com/package/buzzk))
 - [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (CHZZK, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 - [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
+- [Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzkpy) - An unofficial Python library for Chzzk `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/))
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
 - [Rust] [5-23/chzzk-rs](https://github.com/5-23/chzzk-rs) - Unofficial SDK of Korean live platform chzzk `Rust` `MIT License` ([Crates.io](https://crates.io/crates/chzzk))
 
@@ -78,6 +79,7 @@ If you want to contribute to the project, please read the [Contribution Guidelin
 - [@2jun0](https://github.com/2jun0)
 - [@4Z0N4S](https://github.com/4Z0N4S)
 - [@munsy0227](https://github.com/munsy0227)
+- [@gunyu1019](https://github.com/gunyu1019)
 
 ## Caution & Disclaimer
 - The awesome-chzzk project strongly recommends complying with the licenses of individual projects.
