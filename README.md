@@ -15,6 +15,7 @@
 - [jebibot/cheese-knife](https://github.com/jebibot/cheese-knife) - 네이버 스트리밍 플랫폼 치지직에 다양하고 유용한 기능과 도구를 추가합니다. `Javascript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/nfkfgkkhgglkgnlppncolmpekidapkjh))
 - [Serpong/tzzk](https://github.com/Serpong/tzzk) - 트지직 - 트수 이주 환경 적응 지원 서비스 `Javascript` ([익스텐션 설치](https://chromewebstore.google.com/detail/%ED%8A%B8%EC%A7%80%EC%A7%81-%ED%8A%B8%EC%88%98-%EC%9D%B4%EC%A3%BC-%ED%99%98%EA%B2%BD-%EC%A0%81%EC%9D%91-%EC%A7%80%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4/bhfdliamlakhmeononpemhichflfeblc))
 - [2jun0/chzzk-ad-autoskipper](https://github.com/2jun0/chzzk-ad-autoskipper) - 치지직 광고 스키퍼 `Javascript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/치지직-광고-스키퍼/dfckileffglgodofacjbhbglplojmcfl))
+- [Oein/chzzkExt](https://github.com/Oein/chzzkExt) - 치직치지직 `Typescript` ([익스텐션 설치](https://chromewebstore.google.com/detail/%EC%B9%98%EC%A7%81%EC%B9%98%EC%A7%80%EC%A7%81-chzkchzzk/gnhkgfmbflpjnkigambjmfndopabaoaj))
 
 ### SDK
 - [Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
