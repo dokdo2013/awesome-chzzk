@@ -30,6 +30,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 
 ### OpenAPI
 - [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API Compatible Chzzk API `Typescript` `AGPL-3.0 License` ([API Documentation](https://api.twitchzzk.tv))
+- [dochis/ssapi-doc](https://github.com/DOCHIS/ssapi-doc) - Chzzk Donation and Chat API `Socket.IO`, `REST API` ([API Documentation](https://doc.ssapi.kr))
 
 ### Third-Party Services
 - [axl0926/chzzk](https://github.com/axl0926/chzzk) - Categorize Chzzk streamings by category `Typescript` ([Service](https://chzzk.vercel.app/))
