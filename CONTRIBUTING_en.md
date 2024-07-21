@@ -6,6 +6,10 @@
 
 👋 We warmly welcome contributions! To contribute, please follow the guidelines below.
 
+## Contribution Policy
+- **Project Restrictions**: Only open-source projects can be registered. The entire project must be openly available as open-source. If only a portion is publicly available, a significant part must be open-source. The project owner will determine what constitutes a 'significant part.' If there are any disputes, a Discussion can be initiated to resolve them.
+- **License Setting Recommendation**: It is recommended to set a license for the open-source projects you register. Without a license, it may be difficult to understand the clear usage scope, leading to confusion. However, this is a recommendation, and projects without licenses can still be registered.
+
 ## Types of Contributions
 - **Adding Projects**: If you wish to add a project, please do so via an Issue or Pull Request.
 - **Translation Contributions**: The awesome-chzzk project aims to be multi-lingual (with Korean as the base language). Please contribute translation PRs to help developers worldwide engage with the Chzzk third-party ecosystem.
