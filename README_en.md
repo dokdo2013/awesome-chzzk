@@ -83,6 +83,7 @@ If you want to contribute to the project, please read the [Contribution Guidelin
 - [@munsy0227](https://github.com/munsy0227)
 - [@gunyu1019](https://github.com/gunyu1019)
 - [@Oein](https://github.com/Oein)
+- [@Kareus](https://github.com/Kareus)
 
 ## Caution & Disclaimer
 - The awesome-chzzk project strongly recommends complying with the licenses of individual projects.

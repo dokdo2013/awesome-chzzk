@@ -83,6 +83,7 @@
 - [@munsy0227](https://github.com/munsy0227)
 - [@gunyu1019](https://github.com/gunyu1019)
 - [@Oein](https://github.com/Oein)
+- [@Kareus](https://github.com/Kareus)
 
 ## 주의사항 & 면책 조항
 - awesome-chzzk 프로젝트는 개별 프로젝트의 라이센스를 준수할 것을 강력히 권장합니다.
