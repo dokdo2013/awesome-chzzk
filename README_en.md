@@ -27,6 +27,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) - An unofficial Python library for Chzzk `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/))
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
 - [Rust] [5-23/chzzk-rs](https://github.com/5-23/chzzk-rs) - Unofficial SDK of Korean live platform chzzk `Rust` `MIT License` ([Crates.io](https://crates.io/crates/chzzk))
+- [C++] [Kareus/chzzkpp](https://github.com/Kareus/chzzkpp) - Unofficial C++ implementation of Chzzk API library `C++` `MIT License`
 
 ### OpenAPI
 - [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API Compatible Chzzk API `Typescript` `AGPL-3.0 License` ([API Documentation](https://api.twitchzzk.tv))

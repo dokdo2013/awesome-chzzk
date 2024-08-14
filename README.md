@@ -27,6 +27,7 @@
 - [Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) - 네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리 `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/))
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
 - [Rust] [5-23/chzzk-rs](https://github.com/5-23/chzzk-rs) - Unofficial SDK of Korean live platform chzzk `Rust` `MIT License` ([Crates.io](https://crates.io/crates/chzzk))
+- [C++] [Kareus/chzzkpp](https://github.com/Kareus/chzzkpp) - Unofficial C++ implementation of Chzzk API library `C++` `MIT License`
 
 ### OpenAPI
 - [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API 호환 Chzzk(치지직) API `Typescript` `AGPL-3.0 License` ([API 문서](https://api.twitchzzk.tv))
