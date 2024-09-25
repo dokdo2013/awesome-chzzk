@@ -23,6 +23,7 @@
 - [Node.js] [Helloyunho/spark](https://github.com/Helloyunho/spark) - 비공식 네이버 스트리밍 서비스 치지직 JavaScript API `Typescript` `Apache-2.0 License` ([NPM](https://www.npmjs.com/package/spark-chzzk))
 - [Node.js] [Emin-G/buzzk](https://github.com/Emin-G/buzzk) - 뿌지직 (BUZZK) - 치지직(CHZZK) 챗봇을 더욱 쉽게 개발할 수 있도록 돕는 비공식 라이브러리. `Javascript` `MIT License` ([NPM](https://www.npmjs.com/package/buzzk))
 - [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
+- [Kotlin] [olymika/chzzk-with-me](https://github.com/olymika/chzzk-wih-me) - Coroutine Kotlin API library of Chzzk `Kotlin` `Apache-2.0` ([Maven](https://central.sonatype.com/artifact/org.olymika/chzzk-with-me)) 
 - [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
 - [Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) - 네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리 `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/))
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
