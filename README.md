@@ -67,6 +67,7 @@
 
 ### 마인크래프트 연동
 - [NOOBNUBY/McChzzk](https://github.com/NOOBNUBY/McChzzk) - Minecraft <-> Chzzk plugin `Kotlin` `GPL-3.0 License`
+- [apo2073/skChzzk](https://github.com/apo2073/skChzzk) - 마인크래프트 치지직 스크립트 애드온 `Kotlin` `GPL-3.0 license`
 
 ### 기타 프로젝트
 - [ssogari-dev/Chzzk_Tool](https://github.com/ssogari-dev/Chzzk_Tool) - 스트리밍 서비스 '네이버 치지직(CHZZK)' 관련 여러 도구 모음 `Python`
