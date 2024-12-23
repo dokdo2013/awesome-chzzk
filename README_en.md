@@ -67,6 +67,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 
 ### Minecraft Integration
 - [NOOBNUBY/McChzzk](https://github.com/NOOBNUBY/McChzzk) - Minecraft <-> Chzzk plugin `Kotlin` `GPL-3.0 License`
+- [apo2073/skChzzk](https://github.com/apo2073/skChzzk) - Minecraft Chzzk skript addon `Kotlin` `GPL-3.0 license`
 
 ### Other Projects
 - [ssogari-dev/Chzzk_Tool](https://github.com/ssogari-dev/Chzzk_Tool) - Useful tools for Naver's streaming service CHZZK `Python`
@@ -85,6 +86,7 @@ If you want to contribute to the project, please read the [Contribution Guidelin
 - [@gunyu1019](https://github.com/gunyu1019)
 - [@Oein](https://github.com/Oein)
 - [@Kareus](https://github.com/Kareus)
+- [@apo2073](https://github.com/apo2073)
 
 ## Caution & Disclaimer
 - The awesome-chzzk project strongly recommends complying with the licenses of individual projects.
