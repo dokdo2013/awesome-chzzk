@@ -25,7 +25,7 @@
 - [Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 - [Kotlin] [olymika/chzzk-with-me](https://github.com/olymika/chzzk-wih-me) - Coroutine Kotlin API library of Chzzk `Kotlin` `Apache-2.0` ([Maven](https://central.sonatype.com/artifact/org.olymika/chzzk-with-me)) 
 - [Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
-- [Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) - 네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리 `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/))
+- [Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) - 네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리 `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/)) ([Docs](https://gunyu1019.github.io/chzzkpy/ko))
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
 - [Rust] [5-23/chzzk-rs](https://github.com/5-23/chzzk-rs) - Unofficial SDK of Korean live platform chzzk `Rust` `MIT License` ([Crates.io](https://crates.io/crates/chzzk))
 - [C++] [Kareus/chzzkpp](https://github.com/Kareus/chzzkpp) - Unofficial C++ implementation of Chzzk API library `C++` `MIT License`
