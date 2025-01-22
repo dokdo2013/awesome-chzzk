@@ -37,6 +37,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [axl0926/chzzk](https://github.com/axl0926/chzzk) - Categorize Chzzk streamings by category `Typescript` ([Service](https://chzzk.vercel.app/))
 - [jebibot/cheese-remote](https://github.com/jebibot/cheese-remote) - View, replay, pause, skip, control volume for Chzzk Cheese Donation `Typescript` ([Service](https://remote.chz.app/))
 - [kimchanhyung98/hakko-finder](https://github.com/kimchanhyung98/hakko-finder) - Chzzk minor streamer finder `Typescript` ([Service](https://chzzk.chanhyung.kim/))
+- [popop098/chzzkcounts](https://github.com/popop098/chzzkcounts) - Realtime follower count viewer `Javascript` ([서비스](https://www.chzzkcounts.live/))
 
 ### Overlays
 - [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - Chat Overlay `Typescript` ([Service](https://chzzk-overlay.vercel.app/))
@@ -87,6 +88,7 @@ If you want to contribute to the project, please read the [Contribution Guidelin
 - [@Oein](https://github.com/Oein)
 - [@Kareus](https://github.com/Kareus)
 - [@apo2073](https://github.com/apo2073)
+- [@popop098](https://github.com/popop098)
 
 ## Caution & Disclaimer
 - The awesome-chzzk project strongly recommends complying with the licenses of individual projects.

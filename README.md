@@ -88,6 +88,7 @@
 - [@Oein](https://github.com/Oein)
 - [@Kareus](https://github.com/Kareus)
 - [@apo2073](https://github.com/apo2073)
+- [@popop098](https://github.com/popop098)
 
 ## 주의사항 & 면책 조항
 - awesome-chzzk 프로젝트는 개별 프로젝트의 라이센스를 준수할 것을 강력히 권장합니다.
