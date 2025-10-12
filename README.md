@@ -37,11 +37,12 @@
 - [axl0926/chzzk](https://github.com/axl0926/chzzk) - 방송 카테고리에 따른 치지직 방송 분류 `Typescript` ([서비스](https://chzzk.vercel.app/))
 - [jebibot/cheese-remote](https://github.com/jebibot/cheese-remote) - 치지직 치즈 후원 모아보기, 다시 재생, 일시정지, 스킵, 볼륨, 노출 시간 조절 `Typescript` ([서비스](https://remote.chz.app/))
 - [kimchanhyung98/hakko-finder](https://github.com/kimchanhyung98/hakko-finder) - 치지직 하꼬 탐색기 `Typescript` ([서비스](https://chzzk.chanhyung.kim/))
-- [popop098/chzzkcounts](https://github.com/popop098/chzzkcounts) - 실시간 팔로워 수 카운팅 `Javascript` ([서비스](https://www.chzzkcounts.live/))
+- [popop098/on-count-web](https://github.com/popop098/on-count-web) - 실시간 팔로워 수 카운팅 `Javascript` ([서비스](https://on-count.kr/))
 
 ### 오버레이
 - [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - 채팅 오버레이 `Typescript` ([서비스](https://chzzk-overlay.vercel.app/))
 - [chabulhwi/chzzk-custom-css](https://github.com/chabulhwi/chzzk-custom-css) - 4K UHD를 지원하는 치지직 채팅창을 위한 커스텀 CSS `CSS` `CC0-1.0 License`
+- [popop098/v0-on-count](https://github.com/popop098/v0-on-count) - 실시간 팔로워 현황 오버레이 `Typescript` ([서비스](https://on-count-overlay.vercel.app/))
 
 ### Streamlink 플러그인
 - [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) - streamlink plugin for 치지직(Chzzk) `Python`
