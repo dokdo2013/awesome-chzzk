@@ -37,11 +37,12 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [axl0926/chzzk](https://github.com/axl0926/chzzk) - Categorize Chzzk streamings by category `Typescript` ([Service](https://chzzk.vercel.app/))
 - [jebibot/cheese-remote](https://github.com/jebibot/cheese-remote) - View, replay, pause, skip, control volume for Chzzk Cheese Donation `Typescript` ([Service](https://remote.chz.app/))
 - [kimchanhyung98/hakko-finder](https://github.com/kimchanhyung98/hakko-finder) - Chzzk minor streamer finder `Typescript` ([Service](https://chzzk.chanhyung.kim/))
-- [popop098/chzzkcounts](https://github.com/popop098/chzzkcounts) - Realtime follower count viewer `Javascript` ([서비스](https://www.chzzkcounts.live/))
+- [popop098/on-count-web](https://github.com/popop098/on-count-web) - Realtime follower count viewer `Javascript` ([서비스](https://on-count.kr/))
 
 ### Overlays
 - [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) - Chat Overlay `Typescript` ([Service](https://chzzk-overlay.vercel.app/))
 - [chabulhwi/chzzk-custom-css](https://github.com/chabulhwi/chzzk-custom-css) - Custom CSS file for a Chzzk chat window that supports 4K UHD `CSS` `CC0-1.0 License`
+- [popop098/v0-on-count](https://github.com/popop098/v0-on-count) - Realtime follower display Overlay `Typescript` ([Service](https://on-count-overlay.vercel.app/))
 
 ### Streamlink Plugins
 - [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) - streamlink plugin for Chzzk `Python`
