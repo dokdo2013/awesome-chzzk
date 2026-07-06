@@ -29,6 +29,7 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
 - [Rust] [5-23/chzzk-rs](https://github.com/5-23/chzzk-rs) - Unofficial SDK of Korean live platform chzzk `Rust` `MIT License` ([Crates.io](https://crates.io/crates/chzzk))
 - [C++] [Kareus/chzzkpp](https://github.com/Kareus/chzzkpp) - Unofficial C++ implementation of Chzzk API library `C++` `MIT License`
+- [Go] [sdkim96/chzzk-go](https://github.com/sdkim96/chzzk-go) - A Go client library for the Chzzk API `Go` `MIT License` ([pkg.go.dev](https://pkg.go.dev/github.com/sdkim96/chzzk-go))
 
 ### OpenAPI
 - [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API Compatible Chzzk API `Typescript` `AGPL-3.0 License` ([API Documentation](https://api.twitchzzk.tv))
@@ -72,6 +73,9 @@ A collection of open-source projects related to the Naver Chzzk platform.
 
 ### Flow Launcher Plugins
 - [kim0chan/Flow.Launcher.Plugin.CHZZK](https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK) - Flow Launcher Plugin for CHZZK `Typescript`
+
+### Login Tools
+- [sdkim96/chzzk-go](https://github.com/sdkim96/chzzk-go/tree/main/cmd/chzzk-login) - Chzzk OAuth Login CLI binary `Go` `MIT License` ([GitHub Releases](https://github.com/sdkim96/chzzk-go/releases))
 
 ### Other Projects
 - [ssogari-dev/Chzzk_Tool](https://github.com/ssogari-dev/Chzzk_Tool) - Useful tools for Naver's streaming service CHZZK `Python`
