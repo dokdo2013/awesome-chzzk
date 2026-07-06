@@ -29,6 +29,7 @@
 - [Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) - Unity Chzzk chatting/donation Connection `C#`
 - [Rust] [5-23/chzzk-rs](https://github.com/5-23/chzzk-rs) - Unofficial SDK of Korean live platform chzzk `Rust` `MIT License` ([Crates.io](https://crates.io/crates/chzzk))
 - [C++] [Kareus/chzzkpp](https://github.com/Kareus/chzzkpp) - Unofficial C++ implementation of Chzzk API library `C++` `MIT License`
+- [Go] [sdkim96/chzzk-go](https://github.com/sdkim96/chzzk-go) - A Go client library for the Chzzk(치지직) API `Go` `MIT License` ([pkg.go.dev](https://pkg.go.dev/github.com/sdkim96/chzzk-go))
 
 ### OpenAPI
 - [dokdo2013/twitchzzk-api](https://github.com/dokdo2013/twitchzzk-api) - Twitch Helix API 호환 Chzzk(치지직) API `Typescript` `AGPL-3.0 License` ([API 문서](https://api.twitchzzk.tv))
@@ -72,6 +73,9 @@
 
 ### Flow Launcher 플러그인
 - [kim0chan/Flow.Launcher.Plugin.CHZZK](https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK) - Flow Launcher 치지직 플러그인 `Typescript`
+
+### 로그인 도구
+- [sdkim96/chzzk-go](https://github.com/sdkim96/chzzk-go/tree/main/cmd/chzzk-login) - Chzzk OAuth 로그인 CLI 바이너리 `Go` `MIT License` ([GitHub Releases](https://github.com/sdkim96/chzzk-go/releases))
 
 ### 기타 프로젝트
 - [ssogari-dev/Chzzk_Tool](https://github.com/ssogari-dev/Chzzk_Tool) - 스트리밍 서비스 '네이버 치지직(CHZZK)' 관련 여러 도구 모음 `Python`
